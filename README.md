@@ -1,15 +1,12 @@
 # evaluation_php_poo
-Projet de cours Evaluation PHP POO
-Instructions pour récupérer et créer votre projet
+Projet de Correction de l'Evaluation PHP POO
+Instructions pour récupérer la correction
 
-### Forker le repository suivant
 
-https://github.com/evaluationWeb/evaluation_php_poo.git 
 
-### 1 Cloner votre repository (Fork)
+### 1 Cloner le repository
 ```sh
 git clone https://github.com/votre_compte_github/evaluation_php_poo.git
-# remplacer l'url par votre repository (Fork)
 ```
 
 ### 2 Se déplacer dans le projet
@@ -29,7 +26,7 @@ DATABASE_PASSWORD=
 DATABASE_NAME=
 DATABASE_HOST=
 ```
-### 5 Déployer la base de données avec votre script SQL
+### 5 Déployer la base de données avec le script SQL `bdd.sql`
 
 ### 6 démarrer le serveur PHP
 ```sh
