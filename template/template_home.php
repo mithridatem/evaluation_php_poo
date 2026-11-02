@@ -6,12 +6,12 @@
     <link
         rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-    <title><?= $title ?></title>
+    <title><?= $title ?? "" ?></title>
 </head>
 
 <body>
     <?php include 'component/navbar.php'?>
-    <main class="container">
+    <main class="container-fluid">
         <h1>Bienvenue sur le site Evaluation PHP POO</h1>
     </main>
 </body>

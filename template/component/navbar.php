@@ -1,5 +1,5 @@
 <header>
-    <nav class="container">
+    <nav class="container-fluid">
         <ul>
             <li><strong>Evaluation PHP POO</strong></li>
         </ul>
